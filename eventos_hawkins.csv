@@ -1,0 +1,7 @@
+Episodio,Minuto,Tipo_de_Evento,Personajes_Involucrados,Ubicacion,Resultado
+1,5,Aparicion_de_criatura,"Mike,Lucas,Dustin,11",Desembocadura_del_bosque,Escapan
+1,15,Desaparicion,Will_Byers,Desembocadura_del_bosque,Desaparece
+2,30,Descubrimiento,"Mike,Lucas,Dustin,11",Hawkins_Lab,Encuentran_pista
+3,45,Aparicion_de_criatura,11,Bosque_de_Mirkwood,Combate
+4,10,Desaparicion,Barbara_Holland,Alberca_de_la_casa_de_Steve,Desaparece
+5,25,Descubrimiento,"Nancy,Wheeler,Jonathan,Byers",Hawkins_Lab,Encuentran_pista
